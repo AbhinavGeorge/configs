@@ -38,7 +38,7 @@ map <C-n> :NERDTreeToggle<CR>
 
 set termguicolors
 let ayucolor="mirage"
-colorscheme challenger_deep
+colorscheme gruvbox
 let g:lightline = {
-  \ 'colorscheme': 'dogrun',
+  \ 'colorscheme': 'gruvbox',
   \ }
