@@ -7,4 +7,4 @@ They are the files that help us customize different applications which inturn he
 
 Customizing dotfiles help you make your desktop look like this :-
 
-https://user-images.githubusercontent.com/69780531/103450000-0aa17d80-4cd6-11eb-9773-3c7f05b5c1f5.png
+![A pic of my desktop](https://user-images.githubusercontent.com/69780531/103450000-0aa17d80-4cd6-11eb-9773-3c7f05b5c1f5.png)
