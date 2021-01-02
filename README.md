@@ -9,4 +9,6 @@ Customizing dotfiles help you make your desktop look like this :-
 
 ![my current desktop](https://user-images.githubusercontent.com/69780531/103450788-2eb68c00-4ce1-11eb-87db-bc9fcab1e725.png)
 
+![my current desktop](https://user-images.githubusercontent.com/69780531/103450855-46424480-4ce2-11eb-86f5-440dda9afd2b.png)
+
 ![my current desktop](https://user-images.githubusercontent.com/69780531/103450766-cff11280-4ce0-11eb-9ad9-281b91054f94.png)
