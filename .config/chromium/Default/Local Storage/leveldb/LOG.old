@@ -1,0 +1,15 @@
+2020/12/31-18:49:14.889 216ee Reusing MANIFEST /home/anonymous/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/31-18:49:14.889 216ee Recovering log #15
+2020/12/31-18:49:14.889 216ee Reusing old log /home/anonymous/.config/chromium/Default/Local Storage/leveldb/000015.log 
+2020/12/31-19:38:01.396 224c5 Level-0 table #19: started
+2020/12/31-19:38:01.403 224c5 Level-0 table #19: 47630 bytes OK
+2020/12/31-19:38:01.405 224c5 Delete type=0 #15
+2020/12/31-19:38:01.406 2a0b8 Compacting 4@0 + 1@1 files
+2020/12/31-19:38:01.412 2a0b8 Generated table #20@0: 180 keys, 57899 bytes
+2020/12/31-19:38:01.412 2a0b8 Compacted 4@0 + 1@1 files => 57899 bytes
+2020/12/31-19:38:01.413 2a0b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/31-19:38:01.414 2a0b8 Delete type=2 #14
+2020/12/31-19:38:01.414 2a0b8 Delete type=2 #11
+2020/12/31-19:38:01.414 2a0b8 Delete type=2 #8
+2020/12/31-19:38:01.414 2a0b8 Delete type=2 #16
+2020/12/31-19:38:01.414 2a0b8 Delete type=2 #19
