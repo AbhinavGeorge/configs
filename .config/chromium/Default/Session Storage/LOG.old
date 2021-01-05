@@ -1,3 +1,8 @@
-2021/01/01-12:04:40.885 3d1b Reusing MANIFEST /home/anonymous/.config/chromium/Default/Session Storage/MANIFEST-000001
-2021/01/01-12:04:40.887 3d1b Recovering log #6
-2021/01/01-12:04:40.887 3d1b Reusing old log /home/anonymous/.config/chromium/Default/Session Storage/000006.log 
+2021/01/05-07:03:15.254 8ff Reusing MANIFEST /home/anonymous/.config/chromium/Default/Session Storage/MANIFEST-000001
+2021/01/05-07:03:15.276 8ff Recovering log #6
+2021/01/05-07:03:15.276 8ff Level-0 table #9: started
+2021/01/05-07:03:15.281 8ff Level-0 table #9: 19080 bytes OK
+2021/01/05-07:03:15.281 8ff Recovering log #9
+2021/01/05-07:03:15.282 8ff Reusing old log /home/anonymous/.config/chromium/Default/Session Storage/000009.log 
+2021/01/05-07:03:15.289 8ff Delete type=2 #10
+2021/01/05-07:03:15.289 8ff Delete type=0 #6

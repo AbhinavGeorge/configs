@@ -1,3 +1,3 @@
-2021/01/02-11:05:07.126 def5 Reusing MANIFEST /home/anonymous/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/01/02-11:05:07.126 def5 Recovering log #3
-2021/01/02-11:05:07.126 def5 Reusing old log /home/anonymous/.config/chromium/Default/Sync Data/LevelDB/000003.log 
+2021/01/05-08:16:54.976 1144 Reusing MANIFEST /home/anonymous/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/01/05-08:16:54.976 1144 Recovering log #4
+2021/01/05-08:16:54.977 1144 Reusing old log /home/anonymous/.config/chromium/Default/Sync Data/LevelDB/000004.log 
